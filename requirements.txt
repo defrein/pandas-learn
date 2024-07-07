@@ -1,0 +1,15 @@
+# Requirements file for my project
+
+# Excel libraries
+openpyxl         # Library for Excel files in the .xlsx format
+xlrd             # Library for older Excel files in the .xls format
+
+# HTML parsing libraries
+lxml             # XML and HTML parser
+html5lib         # HTML5-compliant parser for BeautifulSoup
+beautifulsoup4   # Library for parsing HTML and XML documents
+
+# SQL toolkit and ORM
+sqlalchemy       # SQL toolkit and ORM
+
+# install with command 'pip install -r requirements.txt'
